@@ -2,27 +2,21 @@
 
 AskIt is a web application built on the Laravel & jQuery framework, inspired by the popular platform ask.fm. It provides users with an interactive platform to ask and answer questions, interactions within the community.
 
+## Features
+
+- **Ask & Answer Questions**
+- **Anonymity**
+- **Follow System** 
+- **Notifications**
+- **Home & Profile** 
+
+
 ## Preview
 
 <img src="https://github.com/iSemary/askit/blob/master/preview/1.webp" height="350px" alt="Image 1">
 <img src="https://github.com/iSemary/askit/blob/master/preview/2.webp" height="350px" alt="Image 2">
 <img src="https://github.com/iSemary/askit/blob/master/preview/3.webp" height="350px" alt="Image 3">
 <img src="https://github.com/iSemary/askit/blob/master/preview/4.webp" height="350px" alt="Image 4">
-
-## Features
-
-- **Ask Questions:** Users can ask questions to other users anonymously or publicly, encouraging open and engaging discussions.
-
-- **Answer Questions:** Users can answer questions posted by other users, sharing their insights and opinions.
-
-- **Anonymity:** AskIt offers an option to ask questions anonymously, allowing users to express themselves freely.
-
-- **User Profiles:** Each user has a profile page where they can view their questions, answers, and interactions.
-
-- **Notifications:** Users receive notifications for new questions, answers, and interactions to stay engaged with the community.
-
-- **User Privacy:** The application prioritizes user privacy and allows users to control their question visibility and anonymity settings.
-
 
 ## How to Use
 
